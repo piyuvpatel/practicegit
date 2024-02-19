@@ -1,1 +1,1 @@
-## Practicing Git commands by Payal Vijay
+## Practicing Git commands by Payal Vijay Mivaan
